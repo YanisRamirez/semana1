@@ -1,0 +1,22 @@
+div {
+		    position: absolute;
+		    background-color: none;
+		    left: 50px;
+		    width: 90px;
+		    height: 150px;
+		    margin: 15px;
+		    padding-top: 40px;
+		    
+		  }
+body{
+	    background-color:#ff3333;
+	    font-family: Helvetica, sans-serif;
+	}
+p {
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+	padding-bottom: 30px;
+}
+
+
